@@ -28,8 +28,8 @@ of tests, and generating detailed reports.
 
 ```bash
 # Clone the repository
-git clone https://github.com/sourcefuse/sourcefuse-ai-automation.git
-cd sourcefuse-ai-automation
+git clone https://github.com/Vijaybv-11/browseruse-ai-automation.git
+cd browseruse-ai-automation
 
 # Set up a virtual environment (optional but recommended)
 python3 -m venv .venv
